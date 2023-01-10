@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706052108748",
+    "project_id": "fir-git-40e79",
+    "storage_bucket": "fir-git-40e79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706052108748:android:5ce15f09f06636e788ad69",
+        "android_client_info": {
+          "package_name": "com.example.firebasenotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706052108748-f0s1i02u7dmpingv673o60oo360dsp8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRP3eHR9kqI1g3IRxWnqeOI3rGd_Us_fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706052108748-f0s1i02u7dmpingv673o60oo360dsp8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
